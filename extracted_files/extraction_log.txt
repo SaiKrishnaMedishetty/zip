@@ -1,0 +1,3 @@
+file1.txt, Size: 20 bytes
+file2.jpg, Size: 20 bytes
+file3.pdf, Size: 20 bytes
